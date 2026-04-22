@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8114257c-f1bf-47ef-a2d4-9736d529bb15",
+  "export_job_id": "bbcb0015-a046-4fde-96cf-8be18d70f0df",
   "id_short": 966439,
-  "published_at": "2026-04-19T07:08:18Z",
+  "published_at": "2026-04-22T19:11:03Z",
   "repo_name": "top-300-restaurant-social-urgency-leads-in-denver-colorado-us-sample-966439",
   "sample_asset_name": "beamstation_966439_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/966439/beamstation_966439_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_records": 30,
-  "sample_sha256": "e390b98b0c3cc1ceedfd3201eb5bb1ae0856a51c27c8a8ef76952f7f1612494d",
-  "sample_size_bytes": 122243,
+  "sample_sha256": "b2820cf4b593636fefcea8add38bc69ffc10c765c82052e16798fc5ad7a67815",
+  "sample_size_bytes": 119487,
   "total_records": 300
 }
