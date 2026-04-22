@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 300 records |
 | Free sample size | 30 records (10.0%) |
-| Last export | 2026-04-14T21:21:19.377406+00:00 |
+| Last export | 2026-04-21T23:50:03.004290+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-300-restaurant-social-urgency-leads-in-denver-colorado-us-sample-966439/releases/download/sample-latest/beamstation_966439_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
